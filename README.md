@@ -1,2 +1,2 @@
 # MySQLJsonDepth
-This repository explores the maximum nesting depth of JSON structures in MySQL 8.
+This project demonstrates the process of generating and storing deeply nested JSON structures in MySQL 8 using SQLAlchemy and Python. It explores the capabilities of MySQL's JSON column type, testing the practical depth and limits of nested JSON storage.
